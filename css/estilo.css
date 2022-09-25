@@ -22,3 +22,24 @@ body{
     color: #333;
     background-color: #a1c3ff;
 }
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin: 20px;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
